@@ -1,0 +1,29 @@
+<svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 121 263"
+                  preserveAspectRatio="none"
+                  class="svg-arrows"
+                >
+                  <path
+                    stroke="#CBD4DB"
+                    d="M2 1.02901S53.35-2.50398 53.35 68.816C53.35 136.462 82.398 140 105 140"
+                  ></path>
+                  <path
+                    fill="#CBD4DB"
+                    fill-rule="evenodd"
+                    d="M108 139.5l-6.095 4.362c-.334.295-.905.086-.905-.332v-8.06c0-.418.571-.627.905-.332L108 139.5z"
+                    clip-rule="evenodd"
+                  ></path>
+                  <path
+                    stroke="#CBD4DB"
+                    stroke-linecap="square"
+                    d="M1 .0170079S37.248-4.39099 52.5 129.362C65.674 264.847 114 257.941 114 257.941"
+                  ></path>
+                  <path
+                    fill="#CBD4DB"
+                    fill-rule="evenodd"
+                    d="M121 258.5l-6.095 4.362c-.334.295-.905.086-.905-.332v-8.06c0-.418.571-.627.905-.332L121 258.5z"
+                    clip-rule="evenodd"
+                  ></path>
+                </svg>
